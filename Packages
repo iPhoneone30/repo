@@ -1,0 +1,14 @@
+Package: com.p2kdev.deleteforeverxs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>	
+Depends:  mobilesubstrate 	
+Conflicts: 	not
+Filename:  debs/com.p2kdev.deleteforeverxs_1.0_iphoneos-arm.deb	
+Size: 6716	
+MD5sum: ba3d00f42ddfb70fee8dbc42bf21f7b4	
+SHA1: c2b212e2822d7b07bcf092e1d4ab78b67263fa6c	
+SHA256: 908bd3aa77626f4033b201140e267af599046cad8b35f73902620423401ca98f	
+Section: Tweaks
+Depiction:لحذف الصور والفيديو بشكل نهائي بدون ذهابها للمحذوفات
+Name: DeleteForeverA12/A13
