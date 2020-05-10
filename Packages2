@@ -1,0 +1,14 @@
+Package: com.laxus.cookingdiary
+Version: 1.24.1+iOSGods.com
+Architecture: iphoneos-arm
+Maintainer: iphoneone30 <iphoneone30@gmail.com>	
+Depends:  mobilesubstrate 	
+Conflicts:
+Filename:  debs/com.laxus.cookingdiary_1.24.1+iOSGods.com_iphoneos-arm.deb
+Size: 2342018
+MD5sum: 5ec6ca1955e820aa1f0a39a6f49b58aa	
+SHA1: 72d434c297ee661c4db59ce79d7f81050f74a7be	
+SHA256: de7b9615b3cefaf46fab1bdf0efe57eae6373bf5e4dec0aa9dee216f9de2c132	
+Section: Tweaks
+Depiction: https://iphoneone30.github.io/repo/
+Name:  Cooking Diaryهاك لعبة
