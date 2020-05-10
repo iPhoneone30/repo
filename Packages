@@ -1,7 +1,7 @@
 Package: com.p2kdev.deleteforeverxs
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: iphoneone30 <iphoneone30@gmail.com>	
+Maintainer: P2KDev <p2kdev@gmail.com>	
 Depends:  mobilesubstrate 	
 Conflicts:
 Filename:  debs/com.p2kdev.deleteforeverxs_1.0_iphoneos-arm.deb	
