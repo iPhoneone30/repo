@@ -1,11 +1,10 @@
 Package: com.p2kdev.deleteforeverxs
-Version: 2.0
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhoneone30 <iPhoneone30@gmail.com>
 Depends: mobilesubstrate 	
-Description: لحذف الصور والفيديو بشكل نهائي بدون الذهاب المحذوفات
-تدعم
-ios 12 and 13
+Description: لحذف الصور والفيديو بشكل نهائي بدون الذهاب المحذوفات تدعم ١٢ و ١٣ 
+size: 4318
 Filename: debs/com.p2kdev.deleteforeverxs_1.0_iphoneos-arm.deb
 Installed-Size: 136
 MD5sum: 552794ec25f7fa631e4aa35b3ab149e0
@@ -19,12 +18,11 @@ Version:  1.24.1+iOSGods.com
 Architecture:  iphoneos-arm
 Maintainer:  iPhoneone30 <iPhoneone30@gmail.com>
 Depends:  mobilesubstrate 	
-Conflicts:  not
 Filename:  debs/com.laxus.cookingdiary_1.24.1+iOSGods.com_iphoneos-arm.deb
 Size:  2342018	
 MD5sum:  5ec6ca1955e820aa1f0a39a6f49b58aa
 SHA1:  72d434c297ee661c4db59ce79d7f81050f74a7be
 SHA256:  de7b9615b3cefaf46fab1bdf0efe57eae6373bf5e4dec0aa9dee216f9de2c132
 Section:  Tweaks
-Depiction:  Cooking Diary هاك لعبة
+Depiction:  زياده الفلوس والجواهر عند الشراء
 Name:  Cooking Diary هاك لعبة
